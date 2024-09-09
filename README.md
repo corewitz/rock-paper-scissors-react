@@ -1,1 +1,1 @@
-# rock-paper-scissors-react
+simple rock paper scissors game using react. 
